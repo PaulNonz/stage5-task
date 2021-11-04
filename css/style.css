@@ -1,0 +1,102 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap'); */
+
+*, body, html, .navbar-brand{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.f1{
+    font-family: 'Yeseva One', cursive;
+}
+.sixt{
+    font-size: 14px;
+}
+.pp{
+    font-family: 'work sans'sans-serif;
+}
+
+.va{
+    background-color: #c7d8f183 !important;
+}
+.bk{
+    background-image: url('../img/5.jpg') ;
+    background-size: cover;
+}
+.hero{
+    background-image: url('../img/bg3.jpg');
+    background-position: cover;
+    background-position:10%;
+}
+.sp{
+    font-size: 6.4rem !important;
+}
+.ts{
+    text-shadow: 2px 4px #00ffff;
+    color: #48772F;
+}
+.ts{
+    text-shadow: 2px 4px #00ffff;
+    color: #48772F;
+}
+.stt{
+    -webkit-text-stroke: 0.1px white; 
+}
+.p-k{
+    padding-top: 40%;
+    margin-top: -2rem !important;
+}
+.wd{
+    margin-top: 40%;
+}
+.logo{
+    height: 50px;
+}
+
+.gallery {
+    background-image: url('../img/image hand.jpg') ;
+    background-position: center;
+    text-shadow: rgb(0,0,0,0);
+}
+
+
+}
+.ss{
+    margin-top: 3.7rem;
+    font-size: 2.5rem;
+}
+.about{
+    background-image: url('../img/12.jpg');
+}
+
+.str{
+    -webkit-text-stroke: 0.1px #48A860;
+}
+.
+.x .ab{
+    background-color: rosybrown;
+}
+.team{
+    background-image: url('../img/');
+}
+.Cu {
+    background-image: url('../img/ ');
+}
+.serv{
+    background-image: url('../img/ ')
+}
+.tea{
+    background-image: url('../img/ ');
+}
+
+p .dd{
+    background-color: rgba(235, 240, 245, 0.516) 248, 255, 0.516) 248, 255, 0.516) !important ;
+}
+.gal{
+    background-image: url('../img/eduardo-prim-ZBX84hCHME0-unsplash.jpg');
+    background-size: cover;
+    
+}

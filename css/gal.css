@@ -1,0 +1,22 @@
+
+*, body, html, .navbar-brand{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.agric-card{
+    width: 30%;
+}
+.agric-image img{
+    width: 100%;
+    height: 30px;
+    border: 2px solid black;
+}
