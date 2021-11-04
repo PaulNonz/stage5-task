@@ -139,7 +139,7 @@
                                 <img src=" ./img/${e.product_img}.png" class="card-img-top" style="height: 250px; width: auto;" alt=" ... ">
                                 <div class="card-body lc   ">
                                     <p class="card-title f1 fs-4 sft fw-bold"> ${e.name} </p>
-                                    <p class=" tdc f1 text-uppercase pt-2" style="font-weight: 750 ; ">Category: ${e.category} </p>
+                                    <p class=" tdc text-uppercase pt-2" style="font-weight: 750 ; ">Category: ${e.category} </p>
                                     <p class=" tdc pp pt-2 fw-bold" style="color: red;">PRICE: ${e.price}</p>
                                     <div class="order p-3" style="background-color: rgb(58, 184, 58)">
                                     <button  class="btn btn-outline-  pt-1 mb-1 br text-white">Order Now</button>  
